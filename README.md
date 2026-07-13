@@ -30,26 +30,11 @@ The workflow includes:
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Files
 
-```
-Spotify-Data-Analysis/
-│
-├── SQL/
-│   └── spotify_analysis.sql
-│
-├── Excel/
-│   └── Spotify_Excel_Dashboard.xlsx
-│
-├── Dataset/
-│   └── spotify.csv
-│
-├── Screenshots/
-│
-└── README.md
-```
-
----
+- 📄 spotify_analysis.sql
+- 📊 Spotify_Excel_Dashboard.xlsx
+- 📂 cleaned_dataset.csv
 
 ## 📊 Dashboard Features
 
