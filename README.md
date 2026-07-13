@@ -93,7 +93,7 @@ Total SQL Queries: **50+**
 
 ## 📷 Dashboard Preview
 
-![Uploading Screenshot 2026-07-13 150701.png…]()
+<img src="Screenshots/dashboard.png" width="100%">
 
 
 ---
