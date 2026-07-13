@@ -78,8 +78,7 @@ Total SQL Queries: **50+**
 
 ## 📷 Dashboard Preview
 
-<img src="Screenshots/dashboard.png" width="100%">
-
+![Spotify Dashboard](dashboard.png)
 
 ---
 
