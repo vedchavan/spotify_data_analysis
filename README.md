@@ -112,11 +112,8 @@ Full query set: [`SQL/spotify_analysis.sql`](SQL/spotify_analysis.sql)
 
 ## 📷 Dashboard Preview
 
-**Excel**
-![Spotify Excel Dashboard](Screenshots/excel_dashboard.png)
-
-**Power BI**
-![Spotify Power BI Dashboard](Spotify_powerbi.png)
+![Spotify Excel Dashboard](Screenshots/dashboard.png)
+![Spotify Power BI Dashboard](Screenshots/Spotify_powerbi.png)
 
 ---
 
