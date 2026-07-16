@@ -116,7 +116,7 @@ Full query set: [`SQL/spotify_analysis.sql`](SQL/spotify_analysis.sql)
 ![Spotify Excel Dashboard](Screenshots/excel_dashboard.png)
 
 **Power BI**
-![Spotify Power BI Dashboard](Screenshots/powerbi_dashboard.png)
+![Spotify Power BI Dashboard](Spotify_powerbi.png)
 
 ---
 
